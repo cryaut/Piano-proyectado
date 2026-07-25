@@ -1,0 +1,24 @@
+{
+  "title": "Twinkle Twinkle",
+  "bpm": 90,
+  "timeSignature": [4,4],
+  "tracks": [{
+    "instrument": "acoustic-grand",
+    "notes": [
+      { "pitch": "C4", "start": 0.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "C4", "start": 1.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "G4", "start": 2.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "G4", "start": 3.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "A4", "start": 4.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "A4", "start": 5.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "G4", "start": 6.0, "duration": 2.0, "velocity": 0.8 },
+      { "pitch": "F4", "start": 8.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "F4", "start": 9.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "E4", "start": 10.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "E4", "start": 11.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "D4", "start": 12.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "D4", "start": 13.0, "duration": 1.0, "velocity": 0.8 },
+      { "pitch": "C4", "start": 14.0, "duration": 2.0, "velocity": 0.8 }
+    ]
+  }]
+}
